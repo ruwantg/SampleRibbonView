@@ -6,9 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AnnotationRibbonView.h"
 
 @interface ViewController : UIViewController
-
 
 @end
 

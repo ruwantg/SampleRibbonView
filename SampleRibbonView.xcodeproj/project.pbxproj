@@ -14,6 +14,7 @@
 		1B6889032717F0E20004A57F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B6889022717F0E20004A57F /* Assets.xcassets */; };
 		1B6889062717F0E20004A57F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B6889042717F0E20004A57F /* LaunchScreen.storyboard */; };
 		1B6889092717F0E20004A57F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B6889082717F0E20004A57F /* main.m */; };
+		1B6889112717F4C90004A57F /* AnnotationRibbonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B6889102717F4C90004A57F /* AnnotationRibbonView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		1B6889052717F0E20004A57F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B6889072717F0E20004A57F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1B6889082717F0E20004A57F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1B68890F2717F4C90004A57F /* AnnotationRibbonView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnnotationRibbonView.h; sourceTree = "<group>"; };
+		1B6889102717F4C90004A57F /* AnnotationRibbonView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnnotationRibbonView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				1B6888FA2717F0DE0004A57F /* SceneDelegate.m */,
 				1B6888FC2717F0DE0004A57F /* ViewController.h */,
 				1B6888FD2717F0DE0004A57F /* ViewController.m */,
+				1B68890F2717F4C90004A57F /* AnnotationRibbonView.h */,
+				1B6889102717F4C90004A57F /* AnnotationRibbonView.m */,
 				1B6888FF2717F0DE0004A57F /* Main.storyboard */,
 				1B6889022717F0E20004A57F /* Assets.xcassets */,
 				1B6889042717F0E20004A57F /* LaunchScreen.storyboard */,
@@ -148,6 +153,7 @@
 			files = (
 				1B6888FE2717F0DE0004A57F /* ViewController.m in Sources */,
 				1B6888F82717F0DE0004A57F /* AppDelegate.m in Sources */,
+				1B6889112717F4C90004A57F /* AnnotationRibbonView.m in Sources */,
 				1B6889092717F0E20004A57F /* main.m in Sources */,
 				1B6888FB2717F0DE0004A57F /* SceneDelegate.m in Sources */,
 			);
